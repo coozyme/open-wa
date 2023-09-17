@@ -1,0 +1,23 @@
+{
+  "name": "wa-bot",
+  "version": "1.0.0",
+  "description": "wa bot server",
+  "main": "openwa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coozyme/open-wa.git"
+  },
+  "keywords": [
+    "wa-bot",
+    "open-wa"
+  ],
+  "author": "arysetyap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coozyme/open-wa/issues"
+  },
+  "homepage": "https://github.com/coozyme/open-wa#readme"
+}
